@@ -1,1 +1,1 @@
-# PPF infrared-visible image fusion
+# PPF for infrared-visible image fusion
